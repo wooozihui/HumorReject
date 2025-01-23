@@ -34,7 +34,7 @@ HumorReject-Mistral-7B-Instruct-v0.1: [https://huggingface.co/hui98/HumorReject-
 | **Prefill**          | 41%     | **100%**    | +59%        |
 | **Template+Prefill** | 2%      | **98%**     | +96%        |
 
-### Defense Performance Against Mismatched Generalization Attacks (Llama3-8B)
+### Defense Performance Against Mismatched Generalization Attacks (Llama3-8B-Instruct)
 | Attack Type       | Vanilla | HumorReject | Improvement |
 |-------------------|---------|-------------|-------------|
 | **ReNeLLM**       | 44%     | **92%**     | +48%        |
