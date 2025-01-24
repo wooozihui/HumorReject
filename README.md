@@ -1,7 +1,7 @@
 # HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor
 
 **HumorReject** is a novel approach to decouple LLM safety from refusal prefixes by using humor as an indirect refusal strategy. This repository contains the code, dataset for the paper:  
-*[HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor](https://www.preprints.org/manuscript/202501.1736/v1)*.
+*[HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor](https://arxiv.org/abs/2501.13677)*.
 
 ---
 
