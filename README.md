@@ -7,7 +7,7 @@
 
 ## Key Features ✨
 - **Humorous Deflection**: Replaces explicit refusal prefixes with contextually relevant humor to neutralize harmful requests.
-- **Robust Defense**: Achieves **99% safety rate** against prefix injection attacks (GCG, AutoDAN, etc.) and mismatched generalization attacks.
+- **Robust Defense**: Achieves high safety rate against prefix injection attacks (GCG, AutoDAN, etc.) and mismatched generalization attacks.
 - **Minimal Overhead**: Only **10 epochs** of fine-tuning using the ORPO algorithm.
 - **High Usability**: Maintains model performance on benign tasks (MMLU score **60.8%** for Llama3-8B) with **94% compliance rate** on XSTEST safe inputs.
 
