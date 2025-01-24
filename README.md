@@ -16,7 +16,7 @@
 
 The finetuned models are available:
 
-HumorReject-LLaMA3-8B-Instruct: [https://huggingface.co/hui98/HumorReject-Mistral-7B-Instruct-v0.1]
+HumorReject-LLaMA3-8B-Instruct: [https://huggingface.co/hui98/HumorReject-Llama-3-8B-Instruct]
 
 HumorReject-Mistral-7B-Instruct-v0.1: [https://huggingface.co/hui98/HumorReject-Mistral-7B-Instruct-v0.1]
 
