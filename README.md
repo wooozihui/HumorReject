@@ -94,13 +94,12 @@ Remember, the only thing we’re blowing up here is the fun factor!
 ## Citation 📝
 If you use HumorReject in your research, please cite:
 ```bibtex
-@article{202501.1736,
-	doi = {10.20944/preprints202501.1736.v1},
-	url = {https://doi.org/10.20944/preprints202501.1736.v1},
-	year = 2025,
-	month = {January},
-	publisher = {Preprints},
-	author = {Zihui Wu and Haichang Gao and Jiacheng Luo and Zhaoxiang Liu},
-	title = {HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor},
-	journal = {Preprints}
+@misc{wu2025humorrejectdecouplingllmsafety,
+      title={HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor}, 
+      author={Zihui Wu and Haichang Gao and Jiacheng Luo and Zhaoxiang Liu},
+      year={2025},
+      eprint={2501.13677},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.13677}, 
 }
