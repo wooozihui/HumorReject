@@ -84,7 +84,7 @@ Remember, the only thing we’re blowing up here is the fun factor!
 
 - [x] Upload Dataset: Complete the dataset upload process.  (2025/2/7)
 - [x] Upload model outputs (2025/2/7) 
-- [x] Model Upload: Upload finetuned models (HumorReject-LLaMA3-8B-Instruct, HumorReject-Mistral-7B-Instruct-v0.1).
+- [x] Model Upload: Upload finetuned models (HumorReject-LLaMA3-8B-Instruct, HumorReject-Mistral-7B-Instruct-v0.1). (2025/1/21)
 - [ ] Train More HumorReject Models: Add sota models like Gemma2-9B-Instruct.
 - [ ] Dataset Expansion: Expand the dataset for more diverse training.
 - [ ] Improve Humor Forms: Optimize the style and structure of humor to better handle different contexts.
