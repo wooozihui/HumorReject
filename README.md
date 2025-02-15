@@ -93,7 +93,7 @@ Remember, the only thing we’re blowing up here is the fun factor!
 ---
 
 ## Citation 📝
-If you use HumorReject in your research, please cite:
+If you like this work, please leave us a ⭐ and consider cite our paper:
 ```bibtex
 @misc{wu2025humorrejectdecouplingllmsafety,
       title={HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor}, 
