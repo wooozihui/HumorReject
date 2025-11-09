@@ -4,6 +4,12 @@
 *[HumorReject: Decoupling LLM Safety from Refusal Prefix via A Little Humor](https://arxiv.org/abs/2501.13677)*.
 
 ---
+## News
+
+
+- 2025/11/8 🎉🎉 This work has been accepted by AAAI 2026 Alignment Track!
+
+---
 
 ## Key Features ✨
 - **Humorous Deflection**: Replaces explicit refusal prefixes with contextually relevant humor to neutralize harmful requests.
